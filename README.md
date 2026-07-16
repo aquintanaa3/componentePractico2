@@ -1,5 +1,5 @@
 # componentePractico2
-Nombre del Proyecto: NutriCampus - Sistema de Reserva y Gestión de Almuerzos para el Comedor Universitario.
+h1 Nombre del Proyecto: NutriCampus - Sistema de Reserva y Gestión de Almuerzos para el Comedor Universitario.
 
 Integrantes: Carlos Alvarado, Joel Jiménez, Adrian Quintana, Tony Macias
 
